@@ -1,6 +1,5 @@
 Login
 ID - 8
 PASSWORD - 7894
-
-my PArt
+My Part
 Discount management
